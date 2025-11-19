@@ -85,7 +85,7 @@ FirebaseMessaging.onMessage.listen((RemoteMessage message) {
 - PRs con título/descr. claros; checklist y screenshots si aplica.
 
 ### Autores y organización
-- Autores: **Julio Elsner** y **FourFive 4-5 Alarcón**
+- Autores: **Julio Elsner DLTU** y **Sandro FourFive(45) Alarcón Rondón**
 - Asesor especializado: **Elio Navarrete**
 - Organización: **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
