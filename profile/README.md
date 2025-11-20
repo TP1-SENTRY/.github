@@ -42,11 +42,17 @@ Aplicación móvil de Sentry para onboarding, autenticación y selección de rol
 
 ### Quick start
 ```bash
+- firebase.json
+- firebase_options.dart
+```
+```bash
 flutter pub get
 # si falta firebase_options.dart
 flutterfire configure
 flutter run -d android   # o -d ios
 ```
+
+
 
 ### Firebase
 `main.dart` ya inicializa Firebase:
